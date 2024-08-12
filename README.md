@@ -6,6 +6,8 @@
 
 ## Usage
 
+# python -m streamlit run app_streamlit.py
+
 1. Open the application in your web browser.
 2. Enter the desired length for the password in the input field.
 3. Click the "Generate Password" button to create a new password.
