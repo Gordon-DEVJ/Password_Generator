@@ -1,12 +1,16 @@
 # Password Generator App
 
+##Screenshot
+
+![image](https://github.com/user-attachments/assets/46b8c1e1-77fc-4959-9d15-d87599204be1)
+
 ## Description
 
-  Small password generator, created with Streamlit, the user specifies the desired length for the password and the application generates a random password with alphanumeric characters, once the password is generated, it is automatically copied to the clipboard using a pyperclip method.
+Small password generator, created with Streamlit, the user specifies the desired length for the password and the application generates a random password with alphanumeric characters, once the password is generated, it is automatically copied to the clipboard using a pyperclip method.
 
 ## Usage
 
-# python -m streamlit run app_streamlit.py
+### python -m streamlit run app_streamlit.py
 
 1. Open the application in your web browser.
 2. Enter the desired length for the password in the input field.
